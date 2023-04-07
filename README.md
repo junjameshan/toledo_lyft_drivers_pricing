@@ -145,7 +145,6 @@ Based on the analyzation of what the total annual estimated revenue is forecaste
 ## References
 
 - [Lyft Pricing Model](https://github.com/junjameshan/toledo_lyft_drivers_pricing/tree/main/pricing_model)
-- https://creatingvalue.substack.com/p/real-problems-we-tackle-pricing-level 
 -	https://tradecollege.org/careers/taxi-drivers-and-chauffeurs/ohio-us/
 -	https://worldpopulationreview.com/us-cities/toledo-oh-population
 -	https://worldpopulationreview.com/us-cities/ann-arbor-mi-population
